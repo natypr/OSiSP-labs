@@ -1,0 +1,28 @@
+The following is a 
+list of the reference content 
+for the Windows 
+application 
+programming interface (API) for desktop and 
+server applications. 
+Using the Windows API, you can develop applications 
+that run successfully on all versions of Windows 
+while taking advantage of the features and 
+version. (Note that this was formerly 
+in this file wiifd))-- 
+called the Win32 API. The name Windows API 
+more accurately reflects its roots 
+The following is a 
+list of the reference content 
+for the Windows 
+in this file wiifd))-- 
+application 
+programming interface (API) for desktop and 
+-----
+===
+server applications. 
+Using the Windows API, you can develop applications 
+that run successfully on all versions of Windows 
+while taking advantage of the features and 
+version. (Note that this was formerly 
+called the Win32 API. The name Windows API 
+more accurately reflects its roots 
